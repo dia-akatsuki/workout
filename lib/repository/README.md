@@ -1,0 +1,2 @@
+# repositoryディレクトリ
+firebase関連
